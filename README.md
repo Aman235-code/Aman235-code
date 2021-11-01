@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aman235-code
+- 👋 Hi, I’m Aman,a computer geek
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning the front end development languages
 - 💞️ I’m looking to collaborate on (No collaboration)
