@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aman235-code
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the front end development languages
+- 💞️ I’m looking to collaborate on (No collaboration)
+- 📫 How to reach me (next words coming soon)
 
 <!---
 Aman235-code/Aman235-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
