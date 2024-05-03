@@ -25,8 +25,8 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/aman-ahamed-382b13218/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/sil_ent_mind/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman235-code&show_icons=true&locale=en" alt="Aman235-code" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman235-code&show_icons=true&locale=en" alt="Aman235-code" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman235-code&" alt="Aman235-code" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman235-code&show_icons=true&locale=en&layout=compact" alt="Aman235-code" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman235-code" alt="Aman235-code" /></a></p>
- -->
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman235-code" alt="Aman235-code" /></a></p> -->
+
