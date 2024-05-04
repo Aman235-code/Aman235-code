@@ -2,8 +2,8 @@
 <p>A passionate full stack developer from India. I love to do coding by hands on and interested in devloping a full stack applications using tech stack such as MERN stack.</p>
 <p>Feel Free to Fork My Repository and make your own changes.</p>
 <h5>Happy Coding Guys</h5>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<h2 align="center">🚀 Languages and Tools I Use</h2>
+<p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
@@ -24,11 +24,11 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/aman-ahamed-382b13218/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<h2 align="center">⚡️ Where to find me</h2>
+<p align="center"><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/aman-ahamed-382b13218/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/sil_ent_mind/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman235-code&show_icons=true&locale=en" alt="Aman235-code" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman235-code&" alt="Aman235-code" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman235-code&show_icons=true&locale=en&layout=compact" alt="Aman235-code" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman235-code&show_icons=true&locale=en" alt="Aman235-code" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman235-code&" alt="Aman235-code" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman235-code&show_icons=true&locale=en&layout=compact" alt="Aman235-code" /></p>
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman235-code" alt="Aman235-code" /></a></p> -->
 
