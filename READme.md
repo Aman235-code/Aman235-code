@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Aman Ahamed </h1>
-<p>A passionate full stack developer from India</p>
-<p>Feel Free to Fork My Repository and make your own changes</p>
+<p>A passionate full stack developer from India. I love to do coding by hands on and interested in devloping a full stack applications using tech stack such as MERN stack.</p>
+<p>Feel Free to Fork My Repository and make your own changes.</p>
 <h5>Happy Coding Guys</h5>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman235-code&show_icons=true&locale=en" alt="Aman235-code" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman235-code&" alt="Aman235-code" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman235-code&show_icons=true&locale=en&layout=compact" alt="Aman235-code" /></p>
-<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman235-code" alt="Aman235-code" /></a></p> -->
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman235-code" alt="Aman235-code" /></a></p>
 
