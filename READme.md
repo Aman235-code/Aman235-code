@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Aman Ahamed </h1>
-<p>A passionate full stack developer from India. I love to do coding by hands on and interested in devloping a full stack applications using tech stack such as MERN stack.</p>
+<h1 align="center">Hi 👋, I'm Aman Ahamed </h1>
+<p>A passionate full stack developer from India. I love to do coding by hands on and interested in developing a full stack applications using tech stack such as MERN stack.</p>
 <p>Feel Free to Fork My Repository and make your own changes.</p>
-<h5>Happy Coding Guys</h5>
+<h1 align="center">Happy Coding Guys</h1>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
