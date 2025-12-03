@@ -1,5 +1,11 @@
 # 💫 About Me:
- 👨‍💻 I'm currently working on  trying to convince my code to run without throwing new errors.<br>🤝 I'm looking to collaborate on  anything cool, weird, or slightly chaotic.<br>🆘 I'm looking for help with  figuring out why "just one quick fix" takes three hours.<br>📚 I'm currently learning  how to write better code and how not to break things that were already working.<br>❓ Ask me about  django, React, or how I managed to crash my local server five times in a day.<br>Fun fact, I add console.logs and print statements like they’re seasoning.<br>
+<div style="align-items:center;">
+ 👨‍💻 I'm currently working on  trying to convince my code to run without throwing new errors.<br>
+ 🤝 I'm looking to collaborate on  anything cool, weird, or slightly chaotic.<br>
+ 🆘 I'm looking for help with  figuring out why "just one quick fix" takes three hours.<br>
+ 📚 I'm currently learning  how to write better code and how not to break things that were already working.<br>
+ ❓ Ask me about  django, React, or how I managed to crash my local server five times in a day.<br>Fun fact, I add console.logs and print statements like they’re seasoning.<br>
+ </div>
 
 
 ## 🌐 Socials:
