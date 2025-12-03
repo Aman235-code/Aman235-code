@@ -8,25 +8,26 @@
  </div>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 
-<p align="center">
-  <a href="https://www.instagram.com/sea_cat_fish/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.instagram.com/sea_cat_fish/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" />
   </a>
-  <a href="https://www.linkedin.com/in/aman-ahamed-382b13218/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aman-ahamed-382b13218/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" />
   </a>
-  <a href="https://www.reddit.com/user/Emotional_Tea8427/">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  <a href="https://www.reddit.com/user/Emotional_Tea8427/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="55" />
   </a>
-  <a href="https://x.com/Aman4328">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  <a href="https://x.com/Aman4328" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/x/000000" width="55" />
   </a>
-  <a href="mailto:amanahamed04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:amanahamed04@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="55" />
   </a>
 </p>
+
 
 
 # 💻 Tech Stack:
